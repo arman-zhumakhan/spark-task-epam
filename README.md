@@ -10,6 +10,10 @@ By Zhumakhan Arman
 
 `python -m venv venv`
 
+- activate the virtual environment
+
+`source venv/bin/activate`
+
 2. Install necessary packages
 
 `pip install -r requirements.txt`
